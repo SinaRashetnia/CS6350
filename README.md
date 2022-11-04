@@ -1,2 +1,2 @@
 # CS6350
-MAchine Learning
+Assignments of cs6350 - Machine Learning
